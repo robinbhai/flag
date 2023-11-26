@@ -1,0 +1,34 @@
+.div1{
+  background-color: #c81123;
+  width: 400px;
+  height: 50px;
+}
+
+.div2{
+  background-color: #05235d;
+  width: 400px;
+  height: 100px;
+}
+.div3{
+  background-color: #c81123;
+  width: 400px;
+  height: 50px;
+}
+
+.div4{
+  background-color: white;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin-top: -135px;
+  margin-left: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+
+}
+
+h1{color: white;}
